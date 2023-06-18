@@ -1,0 +1,33 @@
+.draw-area {
+  border: 2px solid #808080;
+  background-color: white;
+  width: 70%;
+  position: relative;
+}
+
+.menu-bar {
+  border: 2px solid #808080;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 9px;
+  opacity: 0.7;
+  width: 28%;
+}
+
+.menu-bar h2 {
+  font-size: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid;
+  margin-bottom: 1rem;
+}
+
+.shapes {
+  padding-bottom: 2rem;
+}
+
+.shapes button {
+  margin-right: 0.4rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.4rem;
+  padding: 0.2rem 1rem;
+}
