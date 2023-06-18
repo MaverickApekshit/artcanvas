@@ -12,6 +12,7 @@
   border-radius: 9px;
   opacity: 0.7;
   width: 28%;
+  overflow-y: scroll;
 }
 
 .menu-bar h2 {
@@ -30,4 +31,11 @@
   margin-bottom: 0.5rem;
   font-size: 1.4rem;
   padding: 0.2rem 1rem;
+}
+
+.images img {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  cursor: pointer;
 }
